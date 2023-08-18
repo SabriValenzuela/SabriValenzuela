@@ -6,3 +6,10 @@
 - 🌱 I'm currently learning Reactjs and other front end tools
 - 👩‍💻 I am working on multiple small projects to improve my skills
 - 🔎 I am looking for my first job in IT
+### Skills
+- Java
+- Javascript
+- HTML/CSS
+- React
+- Springboot
+  
