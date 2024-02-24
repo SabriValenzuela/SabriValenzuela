@@ -5,11 +5,14 @@
 
 - 🌱 I'm currently learning Reactjs and other front end tools
 - 👩‍💻 I am working on multiple small projects to improve my skills
-- 🔎 I am looking for my first job in IT
+- 🔎 I have 6 months experience as a Fullstack Feveloper
 ### Skills
 - Java
 - Javascript
+- AJAX
+- PHP
 - HTML/CSS
 - React
 - Springboot
+- Bootstrap
   
