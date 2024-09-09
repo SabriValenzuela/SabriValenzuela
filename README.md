@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently learning Reactjs and other front end tools
 - 👩‍💻 I am working on multiple small projects to improve my skills
-- 🔎 I have 1 year experience as a Fullstack Feveloper
+- 🔎 I have 1 year experience as a Fullstack Developer
 ### Skills
 - Java
 - Javascript
